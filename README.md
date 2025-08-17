@@ -34,3 +34,13 @@ A React + Tailwind CSS anime search and discovery app powered by the [Jikan API]
    ```bash
    git clone https://github.com/zapateropv/VinceAnime.git
    cd VinceAnime
+
+2. **Install dependencies*
+
+   ```bash
+   npm install
+
+3. **Start the development server*
+
+   ```bash
+   npm run dev
