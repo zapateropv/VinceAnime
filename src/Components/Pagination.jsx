@@ -1,14 +1,12 @@
 import React from 'react'
-
-
 import { FaArrowRight, FaArrowLeft } from "react-icons/fa";
 
 
 
 const Pagination = ({currentPage, lastPage,setCurrentPage }) => {
   return (
-     <div className="text-white flex items-center m-auto justify-center gap-10 text-xl mt-10 mb-15">
-            Page {currentPage} of {lastPage}
+     <div className="text-white flex  items-center m-auto justify-center gap-10 text-xl mt-10 mb-15">
+            <p>Page {currentPage} of {lastPage}</p>
             <div>
               <button
                 className="cursor-pointer"

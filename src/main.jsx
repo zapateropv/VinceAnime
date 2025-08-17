@@ -12,6 +12,10 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />
   },
   {
+    path:'/VinceAnime',
+    element: <App/>
+  },
+  {
     path: '/anime/:id',
     element: <AnimeInfo/>
   }
