@@ -11,7 +11,9 @@ Currently, two official plugins are available:
 
 A React + Tailwind CSS anime search and discovery app powered by the [Jikan API](https://jikan.moe/).
 
-![App Preview](https://github.com/zapateropv/VinceAnime/blob/08fd86e0f1a1b7dc2e2c45da02aeca4e8b842fc5/src/assets/Screenshot%202025-08-17%20203006.png) <!-- replace with your own screenshot if you have one -->
+![App Preview](https://github.com/zapateropv/VinceAnime/blob/08fd86e0f1a1b7dc2e2c45da02aeca4e8b842fc5/src/assets/Screenshot%202025-08-17%20203006.png)
+![App Preview](https://github.com/zapateropv/VinceAnime/blob/0c5237639a966289d8a01a559a0e9be306b98b05/src/assets/Screenshot%202025-08-17%20203016.png) 
+![App Preview](https://github.com/zapateropv/VinceAnime/blob/0c5237639a966289d8a01a559a0e9be306b98b05/src/assets/Screenshot%202025-08-17%20203030.png)<!-- replace with your own screenshot if you have one -->
 
 ---
 
